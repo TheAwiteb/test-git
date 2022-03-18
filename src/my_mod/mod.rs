@@ -3,5 +3,5 @@ pub fn func1() {
 }
 
 pub fn func2() {
-    todo!("function print hello");
+    println!("Hello");
 }
